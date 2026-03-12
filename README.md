@@ -1,18 +1,24 @@
-# chat-app-utils
+# Chat App Utils
 
-This repository is a personal collection of utilities for chat applications. It includes various functions and components that can be reused across different chat projects.
+## Introduction
+This repository contains utilities for building chat applications. It provides reusable components and functions to simplify development.
 
 ## Features
-- Utility functions for chat message handling.
-- Components for building chat interfaces.
+- Message formatting utilities
+- User management functions
+- WebSocket setup examples
 
 ## Technology Stack
 - JavaScript
-- React
+- Node.js
 
 ## Usage
-Use the utilities and components in your chat applications to enhance functionality and user experience.
+Clone the repository and explore the utilities:
+```bash
+git clone https://github.com/username/chat-app-utils.git
+cd chat-app-utils
+```
 
 ## Future Plans
-- Add more utility functions and components.
-- Create examples showcasing the usage of these utilities.
+- Add more utilities for chat features
+- Improve documentation with examples
